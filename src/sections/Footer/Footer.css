@@ -1,0 +1,27 @@
+.footer li a {
+    color: #922e2e;
+    font-family: Inter;
+    line-height: 18px;
+    font-size: 16px;
+    margin-right: 25px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.footer ul {
+    margin: 0px auto 24px 48px;
+    display: flex;
+}
+.footer li{
+    list-style-type: none;
+}
+.footer {
+    display: flex;
+}
+.footer div { 
+    margin: 0px 48px 24px auto;
+    font-size: 14px;
+}
+.footer a{
+    color: #922e2e;
+    text-decoration: none;
+}

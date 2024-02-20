@@ -1,0 +1,36 @@
+.last {
+    position: relative;
+    max-width: 1184px;
+    margin: 92px auto 92px auto;
+    width: 100%;
+    background: 
+		linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), 
+		url("../../img/eveningMadrid.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    border-radius: 20px;
+}
+
+.last h2 {
+    margin: auto;
+    color: #f9ecec;
+    font-family: Inter;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 76px;
+    width: 560px;
+    padding-top: 350px;
+}
+.last p {
+    margin: 32px auto 92px auto;
+    color: #f9ecec;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    width: 360px;
+    padding-top: 50px;
+}

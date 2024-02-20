@@ -1,0 +1,31 @@
+.intro__title {
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 58px;
+    padding-bottom: 40px;
+}
+.intro__text {
+    max-width: 690px;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 163%;
+    padding-bottom: 33px;
+    margin: 0 auto;
+}
+.intro__list {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 700;
+}
+.intro__list-item {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+}
+.benefits {
+    color: #922e2e;
+    max-width: 984px;
+    margin: 90px auto 0px auto;
+}
+
