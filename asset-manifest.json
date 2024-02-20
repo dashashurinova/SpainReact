@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/SpainReact/static/css/main.1bb18664.css",
+    "main.js": "/SpainReact/static/js/main.7a4023db.js",
+    "static/js/592.7f72a991.chunk.js": "/SpainReact/static/js/592.7f72a991.chunk.js",
+    "static/media/sagrada.jpg": "/SpainReact/static/media/sagrada.8a3254c366fba8eefdbe.jpg",
+    "static/media/3.jpg": "/SpainReact/static/media/3.d2a2b3bac202eefe9777.jpg",
+    "static/media/12.jpg": "/SpainReact/static/media/12.b15401c4c54161f6074d.jpg",
+    "static/media/eveningMadrid.jpeg": "/SpainReact/static/media/eveningMadrid.25d7f96be75f66aa0d40.jpeg",
+    "static/media/2.jpg": "/SpainReact/static/media/2.c5375a0ef1431d09f335.jpg",
+    "static/media/4.jpg": "/SpainReact/static/media/4.e080fc9679b323e2b381.jpg",
+    "static/media/22.jpg": "/SpainReact/static/media/22.55672ee42a559749d6d0.jpg",
+    "static/media/7.jpg": "/SpainReact/static/media/7.c7c245619720566221dd.jpg",
+    "static/media/8.jpg": "/SpainReact/static/media/8.1426a5cc757913163165.jpg",
+    "static/media/9.jpg": "/SpainReact/static/media/9.7be73859c616f71636e0.jpg",
+    "static/media/11.jpg": "/SpainReact/static/media/11.2516ff38e09f1546c288.jpg",
+    "static/media/1.jpg": "/SpainReact/static/media/1.8515176eea10f0b61111.jpg",
+    "static/media/25.jpg": "/SpainReact/static/media/25.c0727f3071b394532698.jpg",
+    "static/media/10.jpg": "/SpainReact/static/media/10.3b26ed316520087c199c.jpg",
+    "static/media/24.jpg": "/SpainReact/static/media/24.532631f6d214d88b74c3.jpg",
+    "static/media/21.jpg": "/SpainReact/static/media/21.187fd4a5df3516e69fb8.jpg",
+    "static/media/barsaEvening.jpg": "/SpainReact/static/media/barsaEvening.aa1e84e0150969e76ed1.jpg",
+    "static/media/6.jpg": "/SpainReact/static/media/6.e9d4a06c73dba66348af.jpg",
+    "static/media/5.jpg": "/SpainReact/static/media/5.cb7314e308afbfc6573f.jpg",
+    "static/media/23.jpg": "/SpainReact/static/media/23.9079de2114ddabb60e55.jpg",
+    "index.html": "/SpainReact/index.html",
+    "main.1bb18664.css.map": "/SpainReact/static/css/main.1bb18664.css.map",
+    "main.7a4023db.js.map": "/SpainReact/static/js/main.7a4023db.js.map",
+    "592.7f72a991.chunk.js.map": "/SpainReact/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bb18664.css",
+    "static/js/main.7a4023db.js"
+  ]
+}
