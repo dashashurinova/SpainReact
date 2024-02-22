@@ -2,7 +2,7 @@
     font-size: 54px;
     font-weight: 900;
     line-height: 58px;
-    padding-bottom: 40px;
+    padding-bottom:10px;
 }
 .intro__text {
     max-width: 690px;
@@ -13,6 +13,7 @@
     margin: 0 auto;
 }
 .intro__list {
+    margin-top: 50px;
     font-family: Inter;
     font-size: 12px;
     font-weight: 700;

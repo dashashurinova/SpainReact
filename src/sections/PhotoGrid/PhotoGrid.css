@@ -1,17 +1,22 @@
-.photo-grid__item {
-    max-width: 284px;
-    height: 100%;
-    width: 100%;
-    min-height: 100%;
-}
-
 .photo-grid {
     width: 1184px;
-    margin: 92px auto 0 auto;
+    margin: 80px auto 0 auto;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 200px);
     gap: 16px;
 }
+
+.photo-grid__item {
+    max-width: 284px;
+    height:100%;
+    width: 100%;
+    /* min-height: 100%; */
+    border-radius: 15px;
+    box-shadow:  2px 3px 2px 1px  #922e2e;
+}
+
+
 
 @media screen and (min-width:768px) and (max-width:1200px) {
     .photo-grid {

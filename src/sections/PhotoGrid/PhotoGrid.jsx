@@ -5,7 +5,7 @@ function PhotoGrid() {
     return (
         <section className="photo-grid">
             {ArrayImg.map((item) => {
-                return (<img className="photo-grid__item" src={require(`../../img/grid/${item}.jpg`)} />)
+                return (<img className="photo-grid__item" key={item} src={require(`../../img/grid/${item}.jpg`)} />)
             })
             }
         </section>

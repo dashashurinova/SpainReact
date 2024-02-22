@@ -7,6 +7,7 @@ import PhotoGrid from './sections/PhotoGrid/PhotoGrid';
 import Places from './sections/Places/Places';
 import Motivation from './sections/Motivation/Motivation';
 import Footer from './sections/Footer/Footer';
+import Choise from './sections/Choise/Choise';
 import React, { useEffect } from "react";
 
 const Main = () => {useEffect(() => {document.title = "Spain travel on React"}, [])};
@@ -19,7 +20,8 @@ function App() {
       <Intro/>
       <Benefits/>
       <PhotoGrid/>
-      <Places/>
+      <Choise/>
+      {/* <Places/> */}
       <Motivation/>
       <Footer/>
     </div>

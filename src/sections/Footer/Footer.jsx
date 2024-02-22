@@ -4,7 +4,7 @@ import './Footer.css';
 export default function Motivation() {
     return (
         <>
-            <footer class="footer">
+            <footer className="footer">
                 <ul>
                     <li><a href="https://www.google.com/maps/place/spain">Maps</a></li>
                     <li><a href="https://www.gismeteo.ru/weather-hispania-303785/">Weather</a></li>

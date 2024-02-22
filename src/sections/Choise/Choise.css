@@ -1,0 +1,28 @@
+.button{
+    color: #922e2e;
+    border-radius: 15px;
+    box-shadow:  2px 2px 2px 1px  #922e2e;
+    margin: 20px;
+    font-size: 25px;
+    border: solid 1px #922e2e ;
+    background-color: antiquewhite;
+    height: 60px;
+    width: 160px;
+    font-style: italic;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+.button:hover, .active{
+    color: #922e2e;
+    box-shadow:  2px 3px 2px 1px  #922e2e;
+    border: solid 2px #922e2e ;
+    background-color: rgb(238, 214, 184);
+    font-size: 27px;
+}
+.choose_title {
+    font-weight: 900;
+    line-height: 76px;
+    font-size: 50px;
+    color: #922e2e;
+    margin-top: 100px;
+}
